@@ -1,3 +1,5 @@
+#NOTE: This repository will likely need some work to be functional, and as such, is kept here largely for archival purposes.
+
 ACLS Workbench
 ==============
 
